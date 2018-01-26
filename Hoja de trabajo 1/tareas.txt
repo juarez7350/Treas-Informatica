@@ -1,0 +1,31 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{David Juarez}
+\title{Tarea No.1 }
+\begin{document}
+\maketitle 
+
+\section{Public class QUE HACER?}
+\begin{itemize}
+\item Public string: \emph{Vestimenta}, esta variable se encuentra presente por que tiene la capcidad de describir el tipo de ropa que se usara para hacer diferentes actividades.
+\item Public int: \emph{Hora}, es necesaria esta variable ya que se necesita saber las horas en las cuales se haran las actividades, para ello se usa "int" por que permite utilizar numeros.
+\item Public string: \emph{Desplazamiento}, Se necesita saber de que manera se desplazara para realizar las actividades en diferentes lugares, utilizando un "string" ya que permite el uso de letras. 
+\item Public string: \emph{Lugar}, se necesita saber donde se haran las diferentes actividades, utilizando un "string" para poder describirlo.
+\item Public string: \emph{Personas involucradas}, para conocer las diferentes personas que ifluiran en la realizacion de las actividades,utilizando un "string" para poder ingresar los nombres.
+\end{itemize}
+
+\section{Public class QUE HACERES?}
+\begin{itemize}
+\item Public string: \emph{orden}, se utilizara para saber cual de las actividades se realizara de primero para tener una mejor organizacion de las tareas.
+\item Public strig: \emph{tamano}, estara presente para saber en que momento son suficientes actividades y no sobre cargar el tiempo.
+\item Public string: \emph{seguir}, se utilizara luego de que una tarea haya sido completada y se pueda continuar con la siguiente.
+\item Public string: \emph{invitacion}, se utilizara para poder acudir a diferentes personas.
+\item Public string: \emph{cambio}, sera utilizado para los cambios de ropa que sean necesarios en el dia y asi poder continuar con las demas actividades dependiendo cual requieran.
+\end{itemize}
+\end{document}
