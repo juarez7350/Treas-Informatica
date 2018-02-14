@@ -1,0 +1,5 @@
+C:\Users\chris\Documents\Visual Studio 2017\Projects\ConsoleApp6\facil1\bin\Debug\facil1.exe.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\ConsoleApp6\facil1\bin\Debug\facil1.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\ConsoleApp6\facil1\bin\Debug\facil1.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\ConsoleApp6\facil1\obj\Debug\facil1.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\ConsoleApp6\facil1\obj\Debug\facil1.pdb
