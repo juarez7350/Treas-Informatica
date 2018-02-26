@@ -8,12 +8,12 @@ namespace TAREA
 {
     class List
     {
-        public abstract class ArrayList : IList {
-        }
-
-        private class almacenamiento 
+        public abstract class Lista
         {
-
+            bool Get(int indice);
+            bool Set(int indice, T elemento);
+            void Push(T elemento);
+            int Lenght { get; }
         }
     }
 
